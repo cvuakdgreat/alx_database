@@ -1,1 +1,2 @@
-SHOW tables;  -- list tables present in the database
+-- list tables present in the database
+SHOW tables; 
