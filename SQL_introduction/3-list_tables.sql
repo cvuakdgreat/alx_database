@@ -1,4 +1,1 @@
--- select a database 
-USE mysql;
--- list tables present in the database 
-SHOW tables;
+SHOW tables;  -- list tables present in the database
